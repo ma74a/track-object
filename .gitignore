@@ -2,7 +2,8 @@
 models
 venv
 test2.py
-
+try.py
+runs
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
