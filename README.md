@@ -67,7 +67,3 @@ track-object/
 ├── with_yolo.py
 └── requirements.txt
 ```
-
-## Status
-
-Exploratory comparison of tracking approaches. Not yet done: formal accuracy evaluation (IoU vs. ground truth) and FPS benchmarking across the three methods.
