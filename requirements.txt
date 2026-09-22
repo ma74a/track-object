@@ -1,0 +1,4 @@
+opencv-python>=4.13.0.92
+opencv-contrib-python>=4.13.0.92
+numpy>=1.26.0
+ultralytics>=8.4.53
